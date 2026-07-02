@@ -1,6 +1,8 @@
 {
-  "name": "TAPAU NEWS",
-  "description": "News to go. Baca cepat. Faham terus. Minimalist mobile-first news snack website.",
+  "name": "Tapau News",
+  "description": "News to go. Baca cepat. Faham terus. A minimalist, mobile-first news snack website serving 60-word summaries for busy Malaysians.",
   "requestFramePermissions": [],
-  "majorCapabilities": []
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
